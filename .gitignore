@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Big Files
-.csv
-.png
+*.csv
+*.png
