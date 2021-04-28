@@ -1,6 +1,6 @@
 # Scrapy Project: Yunnan Sourcing
 
-### [YunnanSourcing](https://yunnansourcing.com/) | [LinkedIn](https://www.linkedin.com/in/theodorecheek) | Blog Writeup
+### [YunnanSourcing](https://yunnansourcing.com/) | [LinkedIn](https://www.linkedin.com/in/theodorecheek) | [Blog Writeup](https://www.nycdatascience.com/blog/student-works/yunnan-sourcing-tea-storefront-and-analysis-of-the-high-end-tea-market)
 
 ---------------------------------------------------
 
